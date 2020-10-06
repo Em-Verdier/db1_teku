@@ -200,7 +200,7 @@ postgres-# \db_1
  pg_global  | postgres | 
 (2 rows)
 ```
-
+@Remy-Mil @Kali-Design @Dragon-S20 @teresa0613 :+1: check this out, voilà la correction d'hier en mieux!  :computer:
 
 
 
