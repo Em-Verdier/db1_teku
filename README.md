@@ -200,7 +200,7 @@ postgres-# \db_1
  pg_global  | postgres | 
 (2 rows)
 ```
-@Remy-Mil :+1: check this out, voilà la correction d'hier en mieux!  :computer:
+@Remy-Mil check this out, voilà la correction d'hier!  :computer:
 
 
 
